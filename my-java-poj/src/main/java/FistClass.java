@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class FistClass {
 
     public static void main(String[] args) {
-        System.out.println("Hi!!!");
+      /*  System.out.println("Hi!!!");
         Scanner scanner = new Scanner(System.in);
         System.out.println("Add you Id and name:");
         Person per = new Person(scanner.nextLine(), scanner.nextLine());
@@ -14,8 +14,8 @@ public class FistClass {
         System.out.println("Add URL for friend's photo");
         per.setUrl(scanner.nextLine());
         System.out.println(per.toString());
-
-       /*
+*/
+//       /*
                 System.out.println("Hi");
                 System.out.println("----- That's an example.------");
                 Person per = new Person("123", "Ivanov Ivan" );
@@ -38,7 +38,7 @@ public class FistClass {
                 System.out.println("Add URL for friend's photo");
                 per.setUrl(scanner.nextLine());
                 System.out.println(per.toString());
-        */
+   //     */
     }
 
 }
